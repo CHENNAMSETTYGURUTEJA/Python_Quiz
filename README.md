@@ -1,4 +1,4 @@
-# 🐍 Python Mini Quiz App
+# 🐍 Python Mini Quiz 
 
 Welcome to the Python Mini Quiz App! 🎉 This is an interactive Python quiz built using Tkinter, designed to help you test your knowledge of Python concepts in a fun and engaging way.
 
